@@ -1,6 +1,4 @@
 .content img{
-    width: 70px;
-    height: 140px;
-    float: right;
-    margin-right: 5%;
+    width: 100%;
+    height: auto;
   }
